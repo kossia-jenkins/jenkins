@@ -1,3 +1,4 @@
+package com.kossia.jenkins;
 public class Test
 {
   public static void main(String args[])
